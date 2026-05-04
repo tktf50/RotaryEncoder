@@ -1,0 +1,29 @@
+{
+  "name": "tktf50/RotaryEncoder",
+  "version": "1.0.0",
+  "description": "Rotary encoder interface library with support for interrupt driven operation and multiple encoders",
+  "keywords": "rotary encoder, interrupt, multiple",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/tktf50/rotaryencoder.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Steven Dicker",
+      "email": "retired.sourcerer@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "license": "GPL-3.0",
+  "frameworks": "Arduino",
+  "platforms": [
+    "atmelavr",
+    "atmelmegaavr",
+    "espressif8266",
+    "espressif32"
+  ],
+  "headers": [
+    "RotaryEncoder.h"
+  ]}
