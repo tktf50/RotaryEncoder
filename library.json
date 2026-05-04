@@ -1,5 +1,5 @@
 {
-  "name": "tktf50/RotaryEncoder",
+  "name": "RotaryEncoder",
   "version": "1.0.0",
   "description": "Rotary encoder interface library with support for interrupt driven operation and multiple encoders",
   "keywords": "rotary encoder, interrupt, multiple",
